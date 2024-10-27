@@ -176,7 +176,7 @@
     "nextjs-toploader": "^3.6.15",
     "numeral": "^2.0.6",
     "nuqs": "^1.17.8",
-    "officeparser": "^4.1.1",
+    "officeparser": "^5.0.0",
     "ollama": "^0.5.8",
     "openai": "^4.56.0",
     "openapi-fetch": "^0.9.7",
